@@ -1,9 +1,5 @@
-import React from 'react'
+import React from 'react';
 
-const AroundYou = () => {
-  return (
-    <div>AroundYou</div>
-  )
-}
+const CountryTracks = () => <div>CountryTracks</div>;
 
-export default AroundYou
+export default CountryTracks;

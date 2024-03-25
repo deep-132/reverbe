@@ -1,9 +1,3 @@
-import React from 'react'
+const TopArtists = () => <div>TopArtists</div>;
 
-const TopArtists = () => {
-  return (
-    <div>TopArtists</div>
-  )
-}
-
-export default TopArtists
+export default TopArtists;

@@ -1,9 +1,3 @@
-import React from 'react'
+const Discover = () => <div>Discover</div>;
 
-const Discover = () => {
-  return (
-    <div>Discover</div>
-  )
-}
-
-export default Discover
+export default Discover;

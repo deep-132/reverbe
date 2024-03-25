@@ -1,9 +1,3 @@
-import React from 'react'
+const TopCharts = () => <div>TopCharts</div>;
 
-const TopCharts = () => {
-  return (
-    <div>TopCharts</div>
-  )
-}
-
-export default TopCharts
+export default TopCharts;
